@@ -7,9 +7,9 @@
 </head>
 
 <body>
-    <form action="msg.php" method="post">
+    <form action="form.php" method="post">
         Name:<input type="text" name="name"><br>
-        E-mail:<input type="text" name="email_id"><br>
+        E-mail:<input type="email" name="email_id"><br>
         <input type="submit">
 
     </form>
